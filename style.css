@@ -1,0 +1,63 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(230, 227, 92);
+    text-align: center;
+    font-size: 200px;
+    text-shadow: 2px 2px 5px black;
+    
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(193, 241, 241);
+    text-align: center;
+    font-size: 150px;
+}
+
+header{
+    padding: auto;
+    background-image: url("images.jpg/pexels-david-hablützel-971355.jpg");
+    
+}
+
+.a1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:tomato;
+    font-size: 75px;
+    text-align: center;
+}
+
+.a2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(179, 197, 233);
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px rgb(12, 12, 12);
+    
+}
+
+.a3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color:black;
+    text-shadow: 2px 2px 5px rgb(209, 148, 148);
+}
+
+h4{
+    text-align: left;
+    font-size: 30px;
+}
+
+#table{
+    border: 2px solid black;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-spacing: 20px;
+    margin: 12px 0;
+}
+
+footer{
+    color: black;
+}
